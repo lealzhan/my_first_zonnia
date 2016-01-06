@@ -119,5 +119,5 @@ STATIC_URL = '/static/'
 
 SITE_ID = 1
 
-# ZINNIA_MARKUP_LANGUAGE = 'markdown'
+ZINNIA_MARKUP_LANGUAGE = 'markdown'
 #ZINNIA_MARKUP_LANGUAGE = 'restructuredtext'
